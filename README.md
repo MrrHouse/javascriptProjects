@@ -1,1 +1,1 @@
-# javascriptProjects
+# JSProjectTemplate
